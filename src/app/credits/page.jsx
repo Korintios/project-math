@@ -28,7 +28,7 @@ export default function Home() {
             url: null
         },
         {
-            name: "Jason Cristanco",
+            name: "Jason Cristancho",
             pp: "/default.jpg",
             role: "Tester",
             url: null
