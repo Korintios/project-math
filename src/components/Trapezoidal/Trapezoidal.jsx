@@ -68,7 +68,7 @@ export default function Trapezoidal() {
     return (
         <div className='flex flex-row gap-6'>
             <div className='flex flex-col gap-6 w-[70%]'>
-                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Método Trapezoidal</h1>
+                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white">Método Trapezoidal</h1>
                 <form onSubmit={calcularIntegral}>
                     <div className="grid gap-6 mb-6 md:grid-cols-2">
                         <div className="flex flex-col">

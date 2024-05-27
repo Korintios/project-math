@@ -69,7 +69,7 @@ export default function SimpsonSimple() {
     return (
         <div className='flex flex-row gap-6'>
             <div className='flex flex-col gap-8 w-[70%]'>
-                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-4xl lg:text-4xl dark:text-white">Simpson Simple</h1>
+                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white">Simpson Simple</h1>
                 <form onSubmit={calcularIntegral}>
                     <div className="grid gap-6 mb-6 md:grid-cols-2">
                         <div className="flex flex-col">

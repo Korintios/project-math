@@ -13,13 +13,13 @@ export default function Home() {
             name: "Juan Villalobos",
             pp: "/juanv.jpg",
             role: "Backend Lead",
-            url: "https://github.com/Andremxsrs"
+            url: "https://github.com/juanvillalobosnz"
         },
         {
             name: "Ronny Valdelamar",
             pp: "/rony.jpg",
             role: "Frontend & Backend",
-            url: "https://github.com/juanvillalobosnz"
+            url: "https://github.com/Andremxsrs"
         },
         {
             name: "Cristofer Mercado",

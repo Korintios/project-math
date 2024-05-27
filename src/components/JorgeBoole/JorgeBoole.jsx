@@ -80,7 +80,7 @@ export default function JorgeBoole() {
     return (
         <div className='flex flex-row gap-6'>
             <div className='flex flex-col gap-8 w-[70%]'>
-                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Método de Jorge Boole</h1>
+                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white">Método de Jorge Boole</h1>
                 <form onSubmit={calcularIntegral} className="grid grid-cols-2 gap-6">
                     <div className="flex flex-col" onMouseEnter={() => setShowButtons(true)} onMouseLeave={() => setShowButtons(false)}>
                         <label htmlFor="funcion-f" className="mb-2 text-sm font-medium text-gray-900 dark:text-white">Función F(X)</label>
