@@ -21,7 +21,7 @@ export default function Navigator () {
             <a href="/simpson/3" className="text-black dark:text-white flex flex-row gap-2 bg-transparent hover:bg-[#d4eaf7] dark:hover:bg-[#0185fa] p-2 rounded-lg font-semibold transition duration-200">{iconTest} T.Simpson 3/8</a>
             <a href="/simpson/0" className="text-black dark:text-white flex flex-row gap-2 bg-transparent hover:bg-[#d4eaf7] dark:hover:bg-[#0185fa] p-2 rounded-lg font-semibold transition duration-200">{iconTest} Simpson</a>
             <span className="flex-none p-2 font-semibold opacity-60 uppercase">Información</span>
-            <a href="https://github.com/" className="text-black dark:text-white flex flex-row gap-2 bg-transparent hover:bg-[#ddd4f7] dark:hover:bg-[#6d01fa] p-2 rounded-lg font-semibold transition duration-200">{iconGitHub} GitHub</a>
+            <a href="https://github.com/Korintios/project-math" className="text-black dark:text-white flex flex-row gap-2 bg-transparent hover:bg-[#ddd4f7] dark:hover:bg-[#6d01fa] p-2 rounded-lg font-semibold transition duration-200">{iconGitHub} GitHub</a>
             <a href="/credits" className="text-black dark:text-white flex flex-row gap-2 bg-transparent hover:bg-[#d6d6d6] dark:hover:bg-[#474747] p-2 rounded-lg font-semibold transition duration-200">{iconGroup} Créditos</a>
         </div>
     )
