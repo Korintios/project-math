@@ -1,5 +1,7 @@
 # Project Math
 
+![image](https://github.com/user-attachments/assets/9d6e5a50-2cf1-433b-95ac-a06c87dfb85e)
+
 **Project Math** es una aplicación web interactiva diseñada para realizar cálculos matemáticos avanzados utilizando métodos numéricos. Los usuarios pueden ingresar funciones matemáticas y obtener resultados precisos mediante técnicas de integración numérica.
 
 ## Enlace de Acceso
